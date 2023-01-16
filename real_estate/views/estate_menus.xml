@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<odoo>
+<menuitem id="real_estate_menu_root" name="Real Estate by Diduch">
+    <menuitem id="real_estate_first_level_menu" name="Dropdown amigo">
+        <menuitem id="estate_property_menu_action" action="estate_property_action" name="Ver Registros"/>
+    </menuitem>
+</menuitem>
+</odoo>
+
